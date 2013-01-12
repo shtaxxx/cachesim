@@ -1,4 +1,4 @@
-simcache
+cachesim
 ====================
 Cache System Simulator for C++ and Verilog VPI
 
